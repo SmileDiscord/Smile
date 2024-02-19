@@ -1,2 +1,2 @@
 # Smile
-The webpage for Smile
+The webpage for Smile.
