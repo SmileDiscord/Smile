@@ -1,3 +1,7 @@
+:root {
+    --aquablue: rgb(124, 180, 255);
+}
+
 body {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
@@ -10,9 +14,14 @@ body {
 #back {
     outline: none;
     background-color: whitesmoke;
-    color: black;
+    color: var(--aquablue);
+    font-weight: bold;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
+}
+
+#back:hover {
+    cursor: grab;
 }
