@@ -6,3 +6,10 @@ body {
 #TOS-TITLE {
     font-size: xx-large;
 }
+
+#back {
+    outline: none;
+    border: none;
+    border-radius: none;
+    color: aquamarine;
+}
