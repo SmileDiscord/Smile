@@ -9,7 +9,10 @@ body {
 
 #back {
     outline: none;
-    border: none;
-    border-radius: none;
-    color: aquamarine;
+    background-color: whitesmoke;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
